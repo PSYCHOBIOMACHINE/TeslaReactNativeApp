@@ -12,11 +12,11 @@ Note:
 * This youtube video is like 4 years old and Vadim uses '.js' for all of his files and keeps his main 'App.js' file out in the open. I had to make a couple of changes to make it work. However, it's still a React Native app and it's written using JSX + js. 
 * It's still very easy to follow along.
 * As of 8-2025 expo projects default to typescript (.tsx) and the 'App.js' file that Vadim worked on is in the 'App' directory as 'index.tsx'. It doesn't make a big difference. You don't have to implement typescript 'typing' in .tsx files. There is no implementation of typescript features in this app and I only created .jsx files during this project. I left all of the .tsx configuration materials alone.
-* You will need to adjust the all of the paths (ex: ./assets -> ../../assets ) due to the index file being in its own directory.
+* You will need to adjust the all of the paths (ex: ../assets -> ../../assets ) due to the index file being in its own directory.
 * The console.warn() statements and error messages appear in the terminal and not in the browser which is I guess how expo did things 4 years ago. 
 * You will still need to download XCODE from the MacOS app store to get the iOS simulator
 
-![Screenshots of finished project](TeslaMobileApp/assets/images/screenshotsOfReactNativeProject-TeslaApp.png)
+![Screenshots of finished project](./assets/images/screenshotsOfReactNativeProject-TeslaApp.png)
 
 
 
