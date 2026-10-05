@@ -1,4 +1,4 @@
-# Introduction to React Native: Tesla App
+# Introduction to React Native and Expo: Tesla App
 ![Screenshots of finished project](./assets/images/screenshotsOfReactNativeProject-TeslaApp.png)
 
 This is a great first React Native project. It's taught by Vadim at notJust.dev (https://www.youtube.com/watch?v=iQ_0Fd_N3Mk&ab_channel=notJust%E2%80%A4dev)
