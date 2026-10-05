@@ -1,5 +1,7 @@
-# React Native Introduction: Tesla App
-This is an ideal first React Native project. It's taught by Vadim at notJust.dev (https://www.youtube.com/watch?v=iQ_0Fd_N3Mk&ab_channel=notJust%E2%80%A4dev)
+# Introduction to React Native: Tesla App
+![Screenshots of finished project](./assets/images/screenshotsOfReactNativeProject-TeslaApp.png)
+
+This is a great first React Native project. It's taught by Vadim at notJust.dev (https://www.youtube.com/watch?v=iQ_0Fd_N3Mk&ab_channel=notJust%E2%80%A4dev)
 
 
 ## Tutorial Includes:
@@ -14,5 +16,3 @@ This is an ideal first React Native project. It's taught by Vadim at notJust.dev
 * It's still very easy to follow along.
 * As of 8-2025 expo projects default to typescript (.tsx) and the 'App.js' file that Vadim worked on is in the 'App' directory as 'index.tsx'. It doesn't make a big difference. You don't have to implement typescript 'typing' in .tsx files. There is no implementation of typescript features in this app and I only created .jsx files during this project. I left all of the .tsx configuration materials alone.
 * You will need to adjust the all of the paths (ex: ../assets -> ../../assets ) due to the index file being in its own directory.
-
-![Screenshots of finished project](./assets/images/screenshotsOfReactNativeProject-TeslaApp.png)
